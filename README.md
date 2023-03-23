@@ -2,7 +2,7 @@
 
 ## Description
 
-The Prework Study Guide Webpage was created and designed to help me as a bootcamp student have a guide and a better understanding of the material learned in the classroom. The webpage has given me a better look on what to expect and has solved any confusion whether this material is what I want to use in the future. I have learned the basics of each programmed like HTML, CSS, Git, JavaScript used and how they connect with each other to made a webpage, I have also learned that learning the program is only half the battle and working together, communicating with peers or co-workers is essential to making a web page.
+The Prework Study Guide Webpage was created and designed to help me as a bootcamp student have a guide and a better understanding of the material learned in the classroom. The webpage has given me a better look on what to expect and has solved any confusion whether this material is what I want to use in the future. I have learned the basics of each programmed like HTML, CSS, Git, JavaScript used and how they connect with each other to made a webpage, I also learned that learning the program is only half the battle and working together, communicating with peers or co-workers is essential to making a web page.
 
 ## Installation
 
